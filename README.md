@@ -2,18 +2,18 @@
 
 1. [Introduction](#introduction)
 2. [Colors](#colors)
-2. [Logos](#logos)
-3. [Fonts](#fonts)
+3. [Logos](#logos)
+4. [Fonts](#fonts)
   * [Paragraph](#paragraph)
   * [Title](#title)
   * [Menu Link](#menu-link)
   * [Nav Link](#nav-link)
   * [Button](#button)
   * [Paideia Logo](#paideia-logo)
-4. [Navbar](#navbar)
+5. [Navbar](#navbar)
   * [Search Bar](#search-bar)
   * [Logo](#logo)
-5. [Footer](#footer)
+6. [Footer](#footer)
 
 ## Introduction
 
@@ -23,8 +23,8 @@ For a live example Paideia site with all HTML/CSS using Bootstrap 4 please see [
 
 ## Colors
 
-<span style="color:#5297CB"><b>Paideia Blue</b></span>
-* #6496C7
+### Paideia Blue ![#5297CB](https://placehold.it/20/5297CB/000000?text=+)
+* #5297CB
 * bottom border of Navbar
 * background of Footer
 * background of Button
@@ -32,19 +32,19 @@ For a live example Paideia site with all HTML/CSS using Bootstrap 4 please see [
 * top or bottom border of Nav Menu on hover
 * option for titles on homepage
 
-<span style="color:#E6F7FF"><b>Paideia Light Blue</b></span>
+### Paideia Light Blue ![#E6F7FF](https://placehold.it/20/E6F7FF/000000?text=+)
 * #E6F7FF
 
-<span style="color:#3070A0"><b>Paideia Dark Blue</b></span>
+### Paideia Dark Blue ![#3070A0](https://placehold.it/20/3070A0/000000?text=+)
 * #3070A0
 * Link on hover
 * background of Button on hover
 
-<span style="color:#0078A0"><b>Paideia Hover Blue</b></span>
+### Paideia Hover Blue ![#0078A0](https://placehold.it/20/0078A0/000000?text=+)
 * #0078A0
 * text of Nav Menu on hover
 
-<span style="color:#3C4E62"><b>Paideia Title Blue</b></span>
+### Paideia Title Blue ![#3C4E62](https://placehold.it/20/3C4E62/000000?text=+)
 * #3C4E62
 * option for titles on homepage
 
@@ -64,9 +64,9 @@ The logo is transparent and should be displayed on a white background. Both are 
 Site text should all be **[Lato](https://fonts.google.com/specimen/Lato)** family.
 
 ### Paragraph
-* 1rem (16px)
-* regular weight
-* black
+  * 16px
+  * regular weight
+  * black
 
 ### Title
 
@@ -84,17 +84,17 @@ Main menu items like 'Home', 'Programs', 'Outreach'
 * normal weight
 * black
 * uppercase
-* 1.5rem (24px)
+* 24px
 
 ### Nav Link
 
 Submenu items like 'Programs > **Living Latin in Gaul**', 'Outreach > **Aequora**'
 
-* 0.3rem(4.8px) Paideia Blue top or bottom border on hover
+* 4.8px Paideia Blue top or bottom border on hover
 * normal weight
 * black
 * uppercase
-* 1.5rem (24px)
+* 24px
 
 ### Button
 
@@ -122,12 +122,12 @@ For reference, the Logo's font is **[Marcellus](https://www.fontzillion.com/font
 * see [button](#button) for accompanying button style
 
 ### Logo
-* max height of 3.75rem (60px)
+* max height of 60px
 * white background
 * hyperlinks to Paideia Website (http://www.paideiainstitute.org/)
 
 ## Footer
-* heavyweight
+* heavy weight
 * uppercase
 * 14.4px
 * background Paideia Blue
